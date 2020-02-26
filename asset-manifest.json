@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hellochat/static/css/main.8f4fbec2.chunk.css",
+    "main.js": "/hellochat/static/js/main.0d5f1775.chunk.js",
+    "main.js.map": "/hellochat/static/js/main.0d5f1775.chunk.js.map",
+    "runtime-main.js": "/hellochat/static/js/runtime-main.e1f78a8a.js",
+    "runtime-main.js.map": "/hellochat/static/js/runtime-main.e1f78a8a.js.map",
+    "static/js/2.3aaca103.chunk.js": "/hellochat/static/js/2.3aaca103.chunk.js",
+    "static/js/2.3aaca103.chunk.js.map": "/hellochat/static/js/2.3aaca103.chunk.js.map",
+    "index.html": "/hellochat/index.html",
+    "precache-manifest.816dd727a6ca76cf01cd560760d26716.js": "/hellochat/precache-manifest.816dd727a6ca76cf01cd560760d26716.js",
+    "service-worker.js": "/hellochat/service-worker.js",
+    "static/css/main.8f4fbec2.chunk.css.map": "/hellochat/static/css/main.8f4fbec2.chunk.css.map",
+    "static/js/2.3aaca103.chunk.js.LICENSE.txt": "/hellochat/static/js/2.3aaca103.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/hellochat/static/media/2.6de9ce53.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1f78a8a.js",
+    "static/js/2.3aaca103.chunk.js",
+    "static/css/main.8f4fbec2.chunk.css",
+    "static/js/main.0d5f1775.chunk.js"
+  ]
+}
